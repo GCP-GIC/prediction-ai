@@ -1,2 +1,3 @@
 runtime: java11
 service: prediction-ai
+instance_class: F2
